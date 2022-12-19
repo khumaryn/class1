@@ -1,0 +1,21 @@
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\bin\Debug\netcoreapp3.1\notebooktask.exe
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\bin\Debug\netcoreapp3.1\notebooktask.deps.json
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\bin\Debug\netcoreapp3.1\notebooktask.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\bin\Debug\netcoreapp3.1\notebooktask.runtimeconfig.dev.json
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\bin\Debug\netcoreapp3.1\notebooktask.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\bin\Debug\netcoreapp3.1\notebooktask.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.dll
+C:\Users\Hp\OneDrive\Desktop\notebooktask\obj\Debug\netcoreapp3.1\notebooktask.pdb
