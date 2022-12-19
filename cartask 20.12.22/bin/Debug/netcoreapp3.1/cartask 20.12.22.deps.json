@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cartask 20.12.22/1.0.0": {
+        "runtime": {
+          "cartask 20.12.22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cartask 20.12.22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
